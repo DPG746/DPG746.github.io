@@ -43,17 +43,6 @@
 ![snake gif](https://github.com/DPG746/DurgaPrasadGiri/blob/output/github-contribution-grid-snake.svg)
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPG746&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPG746&layout=compact&theme=radical" />
-</p>
-
----
 
 ### ⚙️ Tech Stack  
 <p align="center">
