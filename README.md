@@ -37,12 +37,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DPG746&theme=tokyo-night" />
 </p>
 
----
+<!---
 ## 🐍 GitHub Contribution Snake
 
 ![snake gif](https://github.com/DPG746/DurgaPrasadGiri/blob/output/github-contribution-grid-snake.svg)
 
----
+--->
 
 ### ⚙️ Tech Stack  
 <p align="center">
